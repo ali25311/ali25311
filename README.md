@@ -1,7 +1,7 @@
 ### Hey there! 👋
 - 🔭 My name is Ali Hussain and I'm currently a student at Cal State Fullerton.
 - 🌱 I’m currently obtaning my degree in Computer Science with a emphasis on Web Development and Software Engineering.
-- 📫 How to reach me: The best way to reach me is through me e-mail: ali25311@outlook.com
+- 📫 How to reach me: The best way to reach me is through my e-mail: ali25311@outlook.com
 - ⚡ Thanks for visting my github!
 <!--
 **ali25311/ali25311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
