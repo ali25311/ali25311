@@ -1,6 +1,6 @@
 ### Hey there! 👋
-- 🔭 My name is Ali Hussain and I'm currently a student at Cal State Fullerton.
-- 🌱 I'm a software engineer & researcher.
+- 🔭 My name is Ali Hussain and I'm software engineer & researcher.
+- 🌱 I'm currenty focused on learning AWS/cloud & AI technologies.
 - 📫 How to reach me: The best way to reach me is through my e-mail: ali25311@outlook.com
 - ⚡ Thanks for visting my github!
 <!--
