@@ -2,6 +2,7 @@
 - 🔭 My name is Ali Hussain and I'm a software engineer & researcher.
 - 🌱 I'm currenty focused on learning AWS/cloud & AI technologies.
 - 📫 How to reach me: The best way to reach me is through my e-mail: ali25311@outlook.com
+- 📫 I can also be reached on discord by my username: Bantering
 - ⚡ Thanks for visting my github!
 <!--
 **ali25311/ali25311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
